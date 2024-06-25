@@ -1,0 +1,1 @@
+This is a Python and Flask-based web application that can convert text to speech, allows selection of preferred languages for audio output, provides access to a built-in dictionary for word meanings, and even extracts text from images, all with complete audio generation capabilities.
